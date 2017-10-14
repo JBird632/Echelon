@@ -4,7 +4,7 @@ Basic planning for the rewrite of the project. There is going to be a lot of thi
 ## Basic Features
 - [ ] User & Auth
     - [ ] Permissions
-    - [ ] Rolls
+    - [ ] Roles
 - [ ] Admin Panel
     - This is something echelon 2 needed but never had
     - [ ] Permissions controls 
