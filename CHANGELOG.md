@@ -8,8 +8,9 @@
 
 ---
 
-## `3.0.0-a1` Sun, `1st Oct, 2017`
+## `3.0.0-a1` Sun, 1st Oct, 2017
 > Back dating some changes and some new things
+
 ### Added
 - 
 
